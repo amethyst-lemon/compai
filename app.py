@@ -19,8 +19,6 @@ if uploaded_file is not None:
     img_array = np.array(image)  # Convert PIL image to NumPy array
     gray = cv2.cvtColor(img_array, cv2.COLOR_RGB2GRAY)
 
-
-
      # Step 2: Apply Gaussian Blur to remove noise
     blurred = cv2.GaussianBlur(gray, (5, 5), 0)
 
