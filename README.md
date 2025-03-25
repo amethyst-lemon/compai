@@ -15,6 +15,8 @@ User starts the app and uploads any image. A number of algorithms process the im
 ## What algorithms are used to process the image
 The used algorithms are listed in their use order as in how they follow each other to process the uploaded image.
 
+*list of algorithms and mini descriptions of how they work and what they do to the image*
+
 ## Libaries used
 
 - streamlit | App UI is built using this libary, input sliders and checkboxes, image upload and download options are implemented with streamlit components
@@ -47,18 +49,22 @@ streamlit run app.py
 
 1. Step 
 Run the app
+
 *add image with arrows and stuff*
 
 2. Step
 Upload an image
+
 *add image with arrows and stuff*
 
 3. Step
 Adjust the algorithm sliders
+
 *add image with arrows and stuff*
 
 4. Step
 Download the processed image when satisfied with algorith processing results
+
 *add image with arrows and stuff*
 
 ## Future updates
