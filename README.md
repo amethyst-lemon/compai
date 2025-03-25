@@ -35,6 +35,7 @@ After functions and algothims have worked on the image, morphological operation 
 
 - Erosion | cv2.morphologyEx - Erosion is performed after dilation to close help close small, open spots in lines created. 
 
+
 Smoothing is performed after all morphological operations have been completed. This is done with Gaussian blur.
 
 - Mask creation | cv2.bitwise_not - An option to invert the image colors is given with a checkmark option in the UI. If checked then final image is inverted in colors. From black lines on a white background to white lines on a black background.
@@ -63,13 +64,13 @@ Download the app.py file from this repository
 2. Step
 Install required dependencies
 
-pip install streamlit pillow opencv-python numpy
+```pip install streamlit pillow opencv-python numpy```
 
 3. Step 
 Run project from its file location.
 Opening the file in a code editor like Visual Studio Code, then using the built-in terminal to run python file
 
-streamlit run app.py
+```streamlit run app.py```
 
 
 ## Mini How-to tutorial
