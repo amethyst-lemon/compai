@@ -63,13 +63,13 @@ Download the app.py file from this repository
 2. Step
 Install required dependencies
 
-pip install streamlit pillow opencv-python numpy
+```pip install streamlit pillow opencv-python numpy```
 
 3. Step 
 Run project from its file location.
 Opening the file in a code editor like Visual Studio Code, then using the built-in terminal to run python file
 
-streamlit run app.py
+```streamlit run app.py```
 
 
 ## Mini How-to tutorial
