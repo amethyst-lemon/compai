@@ -35,6 +35,7 @@ After functions and algothims have worked on the image, morphological operation 
 
 - Erosion | cv2.morphologyEx - Erosion is performed after dilation to close help close small, open spots in lines created. 
 
+
 Smoothing is performed after all morphological operations have been completed. This is done with Gaussian blur.
 
 - Mask creation | cv2.bitwise_not - An option to invert the image colors is given with a checkmark option in the UI. If checked then final image is inverted in colors. From black lines on a white background to white lines on a black background.
