@@ -54,7 +54,7 @@ if uploaded_file is not None:
         smoothed_edges = cv2.GaussianBlur(closed_edges, (5, 5), 0)
 
         # Option to invert the image (black lines on white or white lines on black)
-        invert_colors = st.checkbox("Invert Colors", value=True, help="Check this box to swap white lines on a black background for the final processed image.")
+        invert_colors = st.checkbox("Invert Colors", value=True, help="Uncheck this box to swap white lines on a black background for the final processed image.")
         if invert_colors:
             processed_image = cv2.bitwise_not(smoothed_edges)
         else:
