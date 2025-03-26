@@ -1,6 +1,6 @@
 # compai
 ## Brief description
-Image processing aapp for converting an image to a line drawing. App UI is made with the help of Streamlit.
+Image processing app for converting an image to a line drawing. App UI is made with the help of Streamlit.
 
 Apps intended use case is turning a photo of a sketch or line art (traditional art) into digital line art (digital line art).
 
