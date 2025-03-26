@@ -41,6 +41,12 @@ Smoothing is performed after all morphological operations have been completed. T
 - *numpy* - Converting image to array, for later image processing
 - *io* - Converting image for download, for input output operations
 
+## Future updates
+**Future updates could include:**
+- Adding noise
+- Adding watermark
+- Adding color editing
+
 ## Set up / running the app
 
 **1. Step**
@@ -89,10 +95,10 @@ Download the processed image when satisfied with algorithm processing results
 
 <img src="https://i.imgur.com/J0PjH4m.png" width="800">
 
-## Future updates
-**Future updates could include:**
-- Adding noise
-- Adding watermark
-- Adding color editing
+## Image processing examples
 
-Overall the main idea for the app is fully completed.
+<img src="https://i.imgur.com/wXv9Pnx.png" width="800">
+
+
+<img src="https://i.imgur.com/G4XVBIN.png" width="800">
+
