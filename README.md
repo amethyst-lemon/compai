@@ -68,19 +68,19 @@ Follow the instructions under ***Set up / running the app section***
 Upload an image
 
 
-<img src="https://i.imgur.com/yfJ1GBH.png" width="500">
+<img src="https://i.imgur.com/yfJ1GBH.png" width="800">
 
 3. Step
 Adjust the algorithm sliders
 
 
-<img src="https://i.imgur.com/NQxUN51.png" width="500">
+<img src="https://i.imgur.com/NQxUN51.png" width="800">
 
 4. Step
 Download the processed image when satisfied with algorithm processing results
 
 
-<img src="https://i.imgur.com/J0PjH4m.png" width="500">
+<img src="https://i.imgur.com/J0PjH4m.png" width="800">
 
 ## Future updates
 Future updates could include:
