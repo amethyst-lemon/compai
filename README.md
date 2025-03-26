@@ -44,14 +44,17 @@ Smoothing is performed after all morphological operations have been completed. T
 ## Set up / running the app
 
 **1. Step**
+
 Download the app.py file from this repository
 
 **2. Step**
+
 Install required dependencies
 
 ```pip install streamlit pillow opencv-python numpy```
 
 **3. Step** 
+
 Run project from its file location.
 Opening the file in a code editor like Visual Studio Code, then using the built-in terminal to run python file
 
@@ -60,23 +63,27 @@ Opening the file in a code editor like Visual Studio Code, then using the built-
 ## Mini How-to tutorial
 
 **1. Step** 
+
 Run the app
 
 Follow the instructions under ***Set up / running the app section***
 
 **2. Step**
+
 Upload an image
 
 
 <img src="https://i.imgur.com/yfJ1GBH.png" width="800">
 
 **3. Step**
+
 Adjust the algorithm sliders
 
 
 <img src="https://i.imgur.com/NQxUN51.png" width="800">
 
 **4. Step**
+
 Download the processed image when satisfied with algorithm processing results
 
 
