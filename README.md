@@ -47,7 +47,14 @@ Smoothing is performed after all morphological operations have been completed. T
 - Adding watermark
 - Adding color editing
 
-## Set up / running the app
+## Set-up / running the app
+
+**To use the app just open this link**
+
+https://compai-uni-app.streamlit.app/
+
+
+### Local app set-up
 
 **1. Step**
 
@@ -72,7 +79,7 @@ Opening the file in a code editor like Visual Studio Code, then using the built-
 
 Run the app
 
-Follow the instructions under ***Set up / running the app section***
+Follow the instructions under ***Set-up / running the app section***
 
 **2. Step**
 
