@@ -60,7 +60,6 @@ https://compai-uni-app.streamlit.app/
 
 
 Link to demo video of how to use the web version of application:
-
 https://drive.google.com/file/d/18b5UqeIQJdu2ON-Osxh5NbFdGEfVrXbr/view?usp=sharing
 
 ## Local app set-up
@@ -84,7 +83,6 @@ Opening the file in a code editor like Visual Studio Code, then using the built-
 
 
 Link to demo video of how to use the application with a local set-up:
-
 https://drive.google.com/file/d/1zELWafWsVDylg82o3dPKP7Nf5pKPDe4w/view?usp=sharing
 
 ## Mini How-to tutorial
