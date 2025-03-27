@@ -59,7 +59,7 @@ Smoothing is performed after all morphological operations have been completed. T
 https://compai-uni-app.streamlit.app/
 
 
-### Local app set-up
+## Local app set-up
 
 **1. Step**
 
