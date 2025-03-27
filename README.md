@@ -11,6 +11,11 @@ Apps intended use case is turning a photo of a sketch or line art (traditional a
 - Displaying the original and processed image
 - Processed image download
 
+## Testing documentation
+
+List of test cases used to test the app can be found in this Google Sheets:
+https://docs.google.com/spreadsheets/d/1QBoAoyROR_iTpx-67E4MiH7pd02aBIgdXVKdnF74ltQ/edit?usp=sharing
+
 ## How it works
 User starts the app and uploads any image. A number of mathematical functions and algorithms process the image. These functions and algorithms are listed in the next section. Each of them has sliders to adjust their intensity and way of interacting with the image. All slider changes are visible immediately as the image is process in real time. After the user is satisfied with the resuslts they can download the processed image.
 
