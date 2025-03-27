@@ -59,6 +59,9 @@ Smoothing is performed after all morphological operations have been completed. T
 https://compai-uni-app.streamlit.app/
 
 
+Link to demo video of how to use the web version of application:
+https://drive.google.com/file/d/18b5UqeIQJdu2ON-Osxh5NbFdGEfVrXbr/view?usp=sharing
+
 ## Local app set-up
 
 **1. Step**
@@ -77,6 +80,10 @@ Run project from its file location.
 Opening the file in a code editor like Visual Studio Code, then using the built-in terminal to run python file
 
 ```streamlit run app.py```
+
+
+Link to demo video of how to use the application with a local set-up:
+https://drive.google.com/file/d/1zELWafWsVDylg82o3dPKP7Nf5pKPDe4w/view?usp=sharing
 
 ## Mini How-to tutorial
 
